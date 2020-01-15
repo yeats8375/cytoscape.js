@@ -133,7 +133,7 @@
     "benchmark:single": "run-s benchmark:download benchmark:single:exec"
   },
   "devDependencies": {
-    "@babel/core": "^7.3.4",
+    "@babel/core": "^7.8.0",
     "@babel/preset-env": "^7.5.5",
     "benchmark": "^2.1.4",
     "bluebird": "^3.5.0",
